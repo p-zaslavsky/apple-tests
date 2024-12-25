@@ -735,7 +735,7 @@ module.exports = (function () {
         sandbox: false,
         lightbox: {},
         childWindow: {},
-        host: 'secure.xsolla.com',
+        host: 'test2-secure.xsolla.com',
         iframeOnly: false,
         consentId: null
     };
